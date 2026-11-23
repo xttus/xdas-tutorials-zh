@@ -1,0 +1,69 @@
+{
+  "assembled_on": "2026-11-23",
+  "upstream_support_revision": "c579ae3f8425b16da8ed7897d19042d63eef263b",
+  "notebooks": [
+    {
+      "source_filename": "01_打开与整合DAS数据_中文版_v5.ipynb",
+      "source_sha256": "d3d082dc054e4aba88d405497ac5d1aa414c5a795527dbdac1e47e7cbcde1852",
+      "repository_filename": "01_open_and_consolidate_zh.ipynb",
+      "repository_sha256": "79dc999c94aaca629bd67652eb7707d4bb70f618b2edc253a1fc9d6da5fc6e2f",
+      "code_cells_preserved": true,
+      "outputs_preserved": true,
+      "reexecuted_for_this_package": false
+    },
+    {
+      "source_filename": "02_探索与处理DAS数据_中文版_v12.ipynb",
+      "source_sha256": "40596495d153092ba1518ea19fd43c3f5098561c56934c1ef4606febda38ab53",
+      "repository_filename": "02_exploration_processing_zh.ipynb",
+      "repository_sha256": "5f0a78ce7ed0114ea3ce93c86837770ce44096f86618f8d6223ca56220daaa20",
+      "code_cells_preserved": true,
+      "outputs_preserved": true,
+      "reexecuted_for_this_package": false
+    },
+    {
+      "source_filename": "03_Atom流水线与DAS分块处理_中文版_v12.ipynb",
+      "source_sha256": "7a5bd2ed67932128ea67c3acbf1cdfb22a022f4e4b3c20a6da8ddae684f5dec2",
+      "repository_filename": "03_massive_atomic_processing_zh.ipynb",
+      "repository_sha256": "ddeba5d638bff0e4d0366eb00e2ffbe4ed8f2393319d0fa8496ee8bfed371681",
+      "code_cells_preserved": true,
+      "outputs_preserved": true,
+      "reexecuted_for_this_package": false
+    },
+    {
+      "source_filename": "04_坐标检查与光纤地理位置_中文版_v2.ipynb",
+      "source_sha256": "30bd4c1b47e094c1270035c04bcca88de83c61da7bd8d912c044dec17f39cd22",
+      "repository_filename": "04_coordinates_zh.ipynb",
+      "repository_sha256": "8aca795b18c658e232bec541b655a678ef8615bc3e6af27b1df7b0bfbaf9133d",
+      "code_cells_preserved": true,
+      "outputs_preserved": true,
+      "reexecuted_for_this_package": false
+    },
+    {
+      "source_filename": "05_地震台站与震相拾取_中文版_v1.ipynb",
+      "source_sha256": "a318290240a517bf3376c89b34af76d1a55ec228805dcecb4657e52fad56e9cb",
+      "repository_filename": "05_stations_zh.ipynb",
+      "repository_sha256": "f04e54e0dd4f7036d89c60b501384501f3e4f8c1d27f12da88a65c190acae5a7",
+      "code_cells_preserved": true,
+      "outputs_preserved": true,
+      "reexecuted_for_this_package": false
+    },
+    {
+      "source_filename": "06_GaMMA到时关联与地震定位_中文版_v4.ipynb",
+      "source_sha256": "a1dc329efd0e066590f27eeac9a3731a8b84f1539a097658ddfe7a89e5e65dcc",
+      "repository_filename": "06_gamma_catalog_zh.ipynb",
+      "repository_sha256": "4594f699fa72532bdb1be4d89beedec207d69b917aa96abc0fa05688b89bd83b",
+      "code_cells_preserved": true,
+      "outputs_preserved": true,
+      "reexecuted_for_this_package": false
+    },
+    {
+      "source_filename": "07_DAS_Streaming_Chinese_v3.ipynb",
+      "source_sha256": "7d8bd870e3a65131bd1f036104b786ff5842020a696722f5acf6cad24637ef1f",
+      "repository_filename": "07_streaming_zh.ipynb",
+      "repository_sha256": "017caeb52665bf75f8db1469350f0d362883e98e03ea9b16942de43c4a187446",
+      "code_cells_preserved": true,
+      "outputs_preserved": true,
+      "reexecuted_for_this_package": false
+    }
+  ]
+}

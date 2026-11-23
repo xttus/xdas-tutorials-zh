@@ -1,0 +1,24 @@
+# 本地数据与运行产物，不上传 GitHub
+data/
+outputs/
+.venv/
+.local-cache/
+uv_cache/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.nc
+*.hdf5
+*.h5
+*.mseed
+*.zip
+*.pt
+*.pth
+*.ckpt
+*.backup_*
+
+# 可公开的小型示例文件需先确认许可与用途，再明确设置例外。
