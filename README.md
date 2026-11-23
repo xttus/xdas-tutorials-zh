@@ -7,12 +7,11 @@
 
 ## 从这里开始
 
-1. 阅读[学习路线](guides/learning-path.md)，理解七篇教程的关系。
-2. 阅读[处理、检测与验证总导读](guides/workflow.md)，先知道为什么做。
-3. 按[安装与运行指南](guides/setup.md)准备环境和数据。
-4. 打开[教程索引](tutorials/xdas/README.md)，从教程 1 顺序运行。
-5. 遇到问题先查[常见问题](guides/troubleshooting.md)，不要反复重跑所有下载。
-6. 准备公开时阅读[GitHub 发布步骤](guides/github-publishing.md)，先检查再推送。
+1. 阅读[处理、检测与验证总导读](guides/workflow.md)，先知道为什么做。
+2. 按[安装与运行指南](guides/setup.md)准备环境和数据。
+3. 打开[教程索引](tutorials/xdas/README.md)，从教程 1 顺序运行。
+4. 遇到问题先查[常见问题](guides/troubleshooting.md)，不要反复重跑所有下载。
+5. 准备公开时阅读[GitHub 发布步骤](guides/github-publishing.md)，先检查再推送。
 
 ## 按问题查找
 
